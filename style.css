@@ -29,8 +29,8 @@
     margin-top: 3.5rem ;
 }
 .line{
-    background-color: lightblue;
-    width: 5rem;
+    background-color: rgb(86, 190, 224);
+    width: 4.7rem;
     margin-bottom: -1.5rem;
     height: 1rem;
 }
@@ -376,7 +376,7 @@ hr{
     }
         
     .line{
-        width: 4rem;
+        width: 3.6rem;
     }
     .u{
         font-size: 5rem;
@@ -501,7 +501,7 @@ hr{
     }
         
     .line{
-        width: 1.7rem;
+        width: 1.9rem;
         height: 0.5rem;
         margin-bottom: -0.9rem;
     }
@@ -653,7 +653,7 @@ hr{
     }
         
     .line{
-        width: 1.5rem;
+        width: 1.9rem;
         height: 0.5rem;
         margin-bottom: -0.9rem;
     }
