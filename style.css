@@ -147,7 +147,7 @@
 .coded p{
     color: white;
     margin-top: -1rem;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-bottom: 0px;
 }
 .footer{
@@ -208,7 +208,8 @@ hr{
 
 }
 .footer-right-con {
-    margin-right: 3rem;
+    margin-right: 3.6rem; 
+    
 }
 .footer-right-con img{
     height: 6rem;
@@ -596,6 +597,9 @@ hr{
     .coded-con{
         font-size: 3rem;
         margin-top: 0.5rem;
+    }
+    .coded-con span{
+        margin-top: 0.7rem;
     }
     .lorem{
         font-size: 1rem;
